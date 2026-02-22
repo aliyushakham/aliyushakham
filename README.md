@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm an **ML Engineer** with strong backend skills, passionate about building complete AI-powered applications — from model training to user interface.
+I'm an **ML Engineer** with strong backend skills, passionate about building complete AI-powered applications - from model training to user interface.
 
 ---
 
@@ -20,8 +20,6 @@ I'm an **ML Engineer** with strong backend skills, passionate about building com
 #### ⚙️ Backend Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -40,4 +38,3 @@ I'm an **ML Engineer** with strong backend skills, passionate about building com
 
 ---
 
-⭐️ From [твой-никнейм](https://github.com/aliyushakham)
