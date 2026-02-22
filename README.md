@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Hi there 👋
 
 I'm an **ML Engineer** with strong backend skills, passionate about building complete AI-powered applications - from model training to user interface.
